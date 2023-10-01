@@ -4,19 +4,19 @@ Top X is a simple project that allows you to find the top X largest numbers, and
 
 ## Installation
 
-Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your system.
+Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
 
-1. Clone the repository or download the project files to your local machine.
+Then follow these steps:
 
-2. Open your terminal and navigate to the project directory.
+1. Clone the repository and cd into the directory.
 
-3. Run the following command to install the project dependencies:
+2. Run the following command to install the project dependencies:
 
    ```bash
    npm install
    ```
 
-4. And the following to build:
+3. And the following to build:
    ```bash
    npm build
    ```
